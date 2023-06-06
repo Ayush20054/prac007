@@ -1,0 +1,10 @@
+body{
+    text-align:center;
+    background-image: conic-gradient(#80FFDB 0% 33%, #72EFDD 0% 66%, #64DFDF 0% 100%);
+}
+div{
+    height: 250px;
+    border: 10px solid black; width: 300px;
+    margin:auto;
+    background-image: linear-gradient(45deg, #80FFDB 50%, #5390D9 50%);
+}
